@@ -1,0 +1,31 @@
+{
+    "name": "speedyspec/speedyspec-wp-hook-domain",
+    "version": "0.0.0",
+    "description": "SpeedySpec Rewrite of WordPress - Hook API Infrastructure WP Package",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "require": {
+        "php": ">=8.4",
+        "speedyspec/speedyspec-wp-hook-domain": "^1"
+    },
+    "require-dev": {
+        "pestphp/pest": "^3.0|^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "SpeedySpec\\WP\\Hook\\Infra\\WP\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "SpeedySpec\\WP\\Hook\\Infra\\WP\\Tests\\": "tests/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}
