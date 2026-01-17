@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/SpeedySpec/speedyspec-wp-hook-infra-wp/compare/v1.0.1...v1.0.2) (2026-01-17)
+
+
+### Bug Fixes
+
+* update composer package and add wordpress license. ([c36b25a](https://github.com/SpeedySpec/speedyspec-wp-hook-infra-wp/commit/c36b25acddef3aa47d2156fe8e698a5d48743e6d))
+
 ## [1.0.1](https://github.com/SpeedySpec/speedyspec-wp-hook-infra-wp/compare/v1.0.0...v1.0.1) (2026-01-17)
 
 
