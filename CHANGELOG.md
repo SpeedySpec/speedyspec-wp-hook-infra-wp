@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/SpeedySpec/speedyspec-wp-hook-infra-wp/compare/v1.0.2...v1.1.0) (2026-01-23)
+
+
+### Features
+
+* complete refactoring of WordPress code to wp-hook-domain ([59b58d7](https://github.com/SpeedySpec/speedyspec-wp-hook-infra-wp/commit/59b58d78734d183301e97af36dcd4bc84753fb78))
+
 ## [1.0.2](https://github.com/SpeedySpec/speedyspec-wp-hook-infra-wp/compare/v1.0.1...v1.0.2) (2026-01-17)
 
 
