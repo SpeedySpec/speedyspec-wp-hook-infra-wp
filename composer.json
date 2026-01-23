@@ -14,7 +14,10 @@
     "autoload": {
         "psr-4": {
             "SpeedySpec\\WP\\Hook\\Infra\\WP\\": "src/"
-        }
+        },
+        "files": [
+            "classes/class-wp-hook.php"
+        ]
     },
     "autoload-dev": {
         "psr-4": {
