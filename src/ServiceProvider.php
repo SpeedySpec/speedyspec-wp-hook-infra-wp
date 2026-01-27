@@ -26,8 +26,6 @@ use SpeedySpec\WP\Hook\Domain\Contracts\UseCases\LegacyRemoveFilterUseCaseInterf
 use SpeedySpec\WP\Hook\Domain\HookServiceContainer;
 use SpeedySpec\WP\Hook\Domain\Services\CurrentHookService;
 use SpeedySpec\WP\Hook\Domain\Services\HookRunAmountService;
-use SpeedySpec\WP\Hook\Infra\Memory\Services\WPHookContainer;
-use SpeedySpec\WP\Hook\Infra\Memory\Services\WPHookSubject;
 use SpeedySpec\WP\Hook\Infra\WP\UseCases\LegacyAddActionUseCase;
 use SpeedySpec\WP\Hook\Infra\WP\UseCases\LegacyCurrentActionUseCase;
 use SpeedySpec\WP\Hook\Infra\WP\UseCases\LegacyCurrentFilterUseCase;
