@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/SpeedySpec/speedyspec-wp-hook-infra-wp/compare/v1.1.0...v1.1.1) (2026-01-27)
+
+
+### Bug Fixes
+
+* remove unused WPHookContainer and WPHookSubject classes references ([3603951](https://github.com/SpeedySpec/speedyspec-wp-hook-infra-wp/commit/3603951d41d50f547b34f40bdab6e87e9838d08b))
+
 ## [1.1.0](https://github.com/SpeedySpec/speedyspec-wp-hook-infra-wp/compare/v1.0.2...v1.1.0) (2026-01-23)
 
 
